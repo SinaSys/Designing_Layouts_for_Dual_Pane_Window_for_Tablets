@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Designing_Layouts_for_Dual_Pane_Window_for_Tablets.iml" filepath="$PROJECT_DIR$/Designing_Layouts_for_Dual_Pane_Window_for_Tablets.iml" group="Designing_Layouts_for_Dual_Pane_Window_for_Tablets" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Designing_Layouts_for_Dual_Pane_Window_for_Tablets/app" />
+    </modules>
+  </component>
+</project>
